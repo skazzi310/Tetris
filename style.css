@@ -1,0 +1,9 @@
+#wrapper
+{
+	height: 601px;
+	width: 301px;
+	background-color: gray;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid black;
+}
